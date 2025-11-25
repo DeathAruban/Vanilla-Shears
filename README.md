@@ -131,6 +131,7 @@ If you find translation errors or your language is missing, please contact me! I
     </td>
   </tr>
 </table>
+
 ## Platform Compatibility and MCBE Versions 💻📱🎮
 | MCBE Ver. | World | Realms | Dedicated Server | Custom Servers | Windows | Mobile | PS4/PS5 | Xbox | Nintendo Switch |
 | :-------- | :----: | :-----: | :---------------: | :-------------: | :------: | :-----: | :------: | :---: | :---------------: |
