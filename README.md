@@ -28,3 +28,19 @@
 | 1.17.x   |  :x: |
 | 1.16.x   | :x:  |
 | < 1.15.x   | :x: |
+
+## Supported Languages 🌍
+This addon includes translations for the following languages:
+- English (United States) - `en_US`
+- English (United Kingdom) - `en_GB`
+- German (Germany) - `de_DE`
+- Spanish (Spain) - `es_ES`
+- French (France) - `fr_FR`
+- Italian (Italy) - `it_IT`
+- Japanese (Japan) - `ja_JP`
+- Portuguese (Portugal) - `pt_PT`
+- Russian (Russia) - `ru_RU`
+- Chinese (Simplified, China) - `zh_CN`
+- Turkish (Turkey) - `tr_TR`
+
+If you find translation errors or your language is missing, please contact me! If you provide a correct translation, you will be credited for your support. 🤝
