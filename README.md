@@ -111,6 +111,29 @@
 
 ---
 
+<h2 align="center">📥 Download Latest Version</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <a href="https://github.com/DeathAruban/Vanilla-Shears/releases/latest">
+        <img src="https://img.shields.io/badge/Download-.mcaddon-2E8B57?style=for-the-badge&logo=xbox&logoColor=white&labelColor=1e5c39" alt="Download .mcaddon" height="60" />
+      </a>
+      <br><br>
+      <b>Recommended for Mobile & PC</b><br>
+      <i>Click to auto-install</i>
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <a href="https://github.com/DeathAruban/Vanilla-Shears/releases/latest">
+        <img src="https://img.shields.io/badge/Download-.zip-D35400?style=for-the-badge&logo=winrar&logoColor=white&labelColor=873600" alt="Download .zip" height="60" />
+      </a>
+      <br><br>
+      <b>For Manual Installation</b><br>
+      <i>Extract content manually</i>
+    </td>
+  </tr>
+</table>
+
 ## ✂️ Shears Collection & Stats
 
 <table>
