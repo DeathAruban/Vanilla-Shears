@@ -53,7 +53,6 @@
         </table>
       </div>
     </td>
-
     <td valign="top" width="50%">
       <h3 align="center">🌍 Localized Languages</h3>
       <table width="100%">
@@ -88,7 +87,6 @@
       </p>
     </td>
   </tr>
-
   <tr>
     <td colspan="2">
        <br>
