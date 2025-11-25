@@ -97,4 +97,4 @@ If you find translation errors or your language is missing, please contact me! I
 * **Durability:** 2032
 * **Speed:** Increased (Faster than Diamond)
 * **Bonus:** 🍀 **2x Drops** for Wool and Honeycomb.
-* **Description:** The ultimate tool. Maximum durability, speed, and double yield on harvest.
+* **Description:** The ultimate tool. Maximum durability,interacting with Sheep or Beehives yields more items!
