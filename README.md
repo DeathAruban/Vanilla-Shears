@@ -131,3 +131,69 @@ If you find translation errors or your language is missing, please contact me! I
     </td>
   </tr>
 </table>
+## Platform Compatibility and MCBE Versions 💻📱🎮
+| MCBE Ver. | World | Realms | Dedicated Server | Custom Servers | Windows | Mobile | PS4/PS5 | Xbox | Nintendo Switch |
+| :-------- | :----: | :-----: | :---------------: | :-------------: | :------: | :-----: | :------: | :---: | :---------------: |
+| 1.21.90+  |   ✅   |    ✅   |         ✅        |        ❌       |    ✅    |    ✅   |     ✅    |   ✅  |         ✅        |
+| 1.21.80+  |   ✅   |    ✅   |         ✅        |        ❌       |    ✅    |    ✅   |     ✅    |   ✅  |         ✅        |
+| 1.21.73   |   ✅   |    ✅   |         ✅        |        ❌       |    ✅    |    ✅   |     ✅    |   ✅  |         ✅        |
+| 1.21.60   |   ✅   |    ✅   |         ✅        |        ❌       |    ✅    |    ✅   |     ✅    |   ✅  |         ✅        |
+| 1.21.51   |   ✅   |    ✅   |         ✅        |        ❌       |    ✅    |    ✅   |     ✅    |   ✅  |         ✅        |
+| 1.21.41   |   ✅   |    ✅   |         ✅        |        ❌       |    ✅    |    ✅   |     ✅    |   ✅  |         ✅        |
+| 1.21.31   |   ✅   |    ✅   |         ✅        |        ❌       |    ✅    |    ✅   |     ✅    |   ✅  |         ✅        |
+| 1.21.0    |   ✅   |    ✅   |         ✅        |        ❌       |    ✅    |    ✅   |     ✅    |   ✅  |         ✅        |
+| 1.20.80   |   ✅   |    ✅   |         ✅        |        ❌       |    ✅    |    ✅   |     ✅    |   ✅  |         ✅        |
+| 1.20.71   |   ✅   |    ✅   |         ✅        |        ❌       |    ✅    |    ✅   |     ✅    |   ✅  |         ✅        |
+| 1.20.62   |   ✅   |    ✅   |         ✅        |        ❌       |    ✅    |    ✅   |     ✅    |   ✅  |         ✅        |
+| Previous  |   ❌   |    ❌   |         ❌        |        ❌       |    ❌    |    ❌   |     ❌    |   ❌  |         ❌        |
+
+**Note:** Custom servers (like PocketMine, NukkitX, etc.) are not supported as the addon relies on native Minecraft Bedrock JavaScript APIs.
+ How to install
+
+## 🖥️ Computer
+
+📁.mcaddon version
+- Download the chat_rank+.mcaddon version
+- click on it to open and it will automatically insert it into the game
+- 
+📦.zip version
+- go to 
+ ```bash
+%AppData%\Minecraft Bedrock\Users\Shared\games\com.mojang
+```
+- pull the texture into the resources folder instead the behavior into the behaviors folder
+
+## 📱 Mobile
+
+📁.mcaddon version
+- Download the chat_rank+.mcaddon version
+- click on it to open and it will automatically insert it into the game
+
+📦.zip version
+- download or use an application to manage files in the phone, I recommend this [RS Gestore File - Explorer EX](https://play.google.com/store/apps/details?id=com.rs.explorer.filemanager&hl=it&gl=US)
+- (ANDROID & AMAZON FIRE OS) go to 
+ ```bash
+/Android/data/com.mojang.minecraftpe/files/games/com.mojang/
+```
+
+- (APPLE IOS ) go to
+
+ ```bash
+/On My iPhone/Minecraft/games/com.mojang/
+```
+
+- pull the texture into the resources folder instead the behavior into the behaviors folder
+
+## 🕹️ Console (PS4/PS5/Switch/Xbox and other)
+
+📦.zip version
+- create dedicated bedrock realm or server
+- pull the texture into the resources folder instead the behavior into the behaviors folder (Realm or Server)
+- enter the realm or the server and you will find your component,remember to enable the settings necessary for operation listed before
+- ⛔you can't put it directly in the console, the manufacturer things don't allow to import external files, it is possible only in case you have made a modification of your console
+
+## For more info visit my discord or watch the video guide on my channel
+- ✉️ Discord Link : [Click](https://discord.gg/NKy9A9RAe8)
+- 💻 Youtube Link :[Click](https://www.youtube.com/watch?v=axPOtFdQQwc&ab_channel=Death_Aruban%E2%84%A2)
+
+## Thank you for choosing this component and to appreciate how it works 😄
