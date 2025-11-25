@@ -129,6 +129,7 @@
         <li><b>Crafting:</b> x2 Planks</li>
         <li><b>Durability:</b> 60</li>
         <li><b>Speed:</b> Standard</li>
+		<li><b>Enchant:</b> To enchant, do as for the basic cesies, in the anvil with the enchanted book is[ Efficiency: 1/5, Silk Touch‌: 1, Unbreaking: 1/3, Mending: 1, Curse of Vanishing : 1 ]</li>
         <li><b>Description:</b> The perfect starter tool for early game wool gathering.</li>
       </ul>
     </td>
@@ -141,6 +142,7 @@
         <li><b>Crafting:</b> x2 Cobblestone</li>
         <li><b>Durability:</b> 132</li>
         <li><b>Speed:</b> Standard</li>
+		<li><b>Enchant:</b> To enchant, do as for the basic cesies, in the anvil with the enchanted book is[ Efficiency: 1/5, Silk Touch‌: 1, Unbreaking: 1/3, Mending: 1, Curse of Vanishing : 1 ]</li>
         <li><b>Description:</b> A solid upgrade with double the durability of wood.</li>
       </ul>
     </td>
@@ -155,6 +157,7 @@
         <li><b>Crafting:</b> x2 Copper Ingots</li>
         <li><b>Durability:</b> 191</li>
         <li><b>Speed:</b> Standard</li>
+		<li><b>Enchant:</b> To enchant, do as for the basic cesies, in the anvil with the enchanted book is[ Efficiency: 1/5, Silk Touch‌: 1, Unbreaking: 1/3, Mending: 1, Curse of Vanishing : 1 ]</li>
         <li><b>Description:</b> A great use for your excess copper, offering decent durability.</li>
       </ul>
     </td>
@@ -167,6 +170,7 @@
         <li><b>Crafting:</b> x2 Gold Ingots</li>
         <li><b>Durability:</b> 33</li>
         <li><b>Speed:</b> <b>2x Faster</b> (Double Speed)</li>
+		<li><b>Enchant:</b> To enchant, do as for the basic cesies, in the anvil with the enchanted book is[ Efficiency: 1/5, Silk Touch‌: 1, Unbreaking: 1/3, Mending: 1, Curse of Vanishing : 1 ]</li>
         <li><b>Description:</b> Extremely fragile but shears leaves and webs instantly.</li>
       </ul>
     </td>
@@ -182,6 +186,7 @@
         <li><b>Durability:</b> 1562</li>
         <li><b>Speed:</b> Slightly increased</li>
         <li><b>Bonus:</b> 🍀 <b>1.5x Drops</b> for Wool and Honeycomb.</li>
+		<li><b>Enchant:</b> To enchant, do as for the basic cesies, in the anvil with the enchanted book is[ Efficiency: 1/5, Silk Touch‌: 1, Unbreaking: 1/3, Mending: 1, Curse of Vanishing : 1 ]</li>
         <li><b>Description:</b> High durability and efficiency. Interacting with Sheep or Beehives yields more items!</li>
       </ul>
     </td>
@@ -195,6 +200,7 @@
         <li><b>Durability:</b> 2032</li>
         <li><b>Speed:</b> Increased (Faster than Diamond)</li>
         <li><b>Bonus:</b> 🍀 <b>2x Drops</b> for Wool and Honeycomb.</li>
+		<li><b>Enchant:</b> To enchant, do as for the basic cesies, in the anvil with the enchanted book is[ Efficiency: 1/5, Silk Touch‌: 1, Unbreaking: 1/3, Mending: 1, Curse of Vanishing : 1 ]</li>
         <li><b>Description:</b> The ultimate tool. Maximum durability, interacting with Sheep or Beehives yields more items!</li>
       </ul>
     </td>
