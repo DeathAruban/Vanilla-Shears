@@ -16,120 +16,108 @@
 <img alt="PingPong status" src="https://img.shields.io/pingpong/status/sp_7b7ce509b36c47ee9b20d041d018dc0a">
 <img alt="GitHub" src="https://img.shields.io/github/license/DeathAruban/Vanilla-Shears">
 </p>
-
-<table>
+<table width="100%">
   <tr>
-    <td valign="top" width="40%">
-      <h3 align="center">📦 Version Support</h3>
+    <td valign="top" width="50%">
+      <h3 align="center">📦 MCBE Version Support</h3>
       <div align="center">
-        <table>
+        <table width="90%">
           <thead>
             <tr>
-              <th align="center">MCBE Version</th>
+              <th align="center">Version</th>
               <th align="center">Status</th>
             </tr>
           </thead>
           <tbody>
             <tr>
-              <td align="center">1.21.124</td>
-              <td align="center">✅</td>
+              <td align="center"><b>1.21.124+</b></td>
+              <td align="center">✅ <b>Supported</b></td>
             </tr>
             <tr>
               <td align="center">1.20.x</td>
               <td align="center">❌</td>
             </tr>
             <tr>
-              <td align="center">1.19.60</td>
+              <td align="center">1.19.x</td>
               <td align="center">❌</td>
             </tr>
-            <tr>
+             <tr>
               <td align="center">1.18.x</td>
               <td align="center">❌</td>
             </tr>
-            <tr>
-              <td align="center">1.17.x</td>
-              <td align="center">❌</td>
-            </tr>
-            <tr>
-              <td align="center">1.16.x</td>
-              <td align="center">❌</td>
-            </tr>
-            <tr>
-              <td align="center">< 1.15.x</td>
+             <tr>
+              <td align="center">Old</td>
               <td align="center">❌</td>
             </tr>
           </tbody>
         </table>
       </div>
     </td>
-    <td valign="top" width="60%">
-      <h3 align="center">🌍 Supported Languages</h3>
-      <p align="center"><i>Fully localized for a global experience.</i></p>
-      <table align="center" width="100%">
+
+    <td valign="top" width="50%">
+      <h3 align="center">🌍 Localized Languages</h3>
+      <table width="100%">
         <tr>
-          <td>🇺🇸 English (US)</td>
-          <td><code>en_US</code></td>
-          <td>🇬🇧 English (UK)</td>
-          <td><code>en_GB</code></td>
+          <td>🇺🇸 <code>en_US</code></td>
+          <td>🇬🇧 <code>en_GB</code></td>
         </tr>
         <tr>
-          <td>🇩🇪 German</td>
-          <td><code>de_DE</code></td>
-          <td>🇪🇸 Spanish</td>
-          <td><code>es_ES</code></td>
+          <td>🇩🇪 <code>de_DE</code></td>
+          <td>🇪🇸 <code>es_ES</code></td>
         </tr>
         <tr>
-          <td>🇫🇷 French</td>
-          <td><code>fr_FR</code></td>
-          <td>🇮🇹 Italian</td>
-          <td><code>it_IT</code></td>
+          <td>🇫🇷 <code>fr_FR</code></td>
+          <td>🇮🇹 <code>it_IT</code></td>
         </tr>
         <tr>
-          <td>🇯🇵 Japanese</td>
-          <td><code>ja_JP</code></td>
-          <td>🇵🇹 Portuguese</td>
-          <td><code>pt_PT</code></td>
+          <td>🇯🇵 <code>ja_JP</code></td>
+          <td>🇵🇹 <code>pt_PT</code></td>
         </tr>
         <tr>
-          <td>🇷🇺 Russian</td>
-          <td><code>ru_RU</code></td>
-          <td>🇨🇳 Chinese</td>
-          <td><code>zh_CN</code></td>
+          <td>🇷🇺 <code>ru_RU</code></td>
+          <td>🇨🇳 <code>zh_CN</code></td>
         </tr>
         <tr>
-          <td>🇹🇷 Turkish</td>
-          <td><code>tr_TR</code></td>
-          <td></td>
+          <td>🇹🇷 <code>tr_TR</code></td>
           <td></td>
         </tr>
       </table>
       <br>
-      <p align="center">Found an error or missing language?<br>Contact me to contribute! 🤝</p>
+      <p align="center">
+        <i>Missing your language? <a href="https://github.com/DeathAruban/Vanilla-Shears/issues">Report it here!</a></i>
+      </p>
     </td>
   </tr>
-</table>
 
----
-
-<h2 align="center">📥 Download Latest Version</h2>
-
-<table width="100%">
   <tr>
-    <td width="50%" align="center" valign="middle">
-      <a href="https://github.com/DeathAruban/Vanilla-Shears/releases/latest">
-        <img src="https://img.shields.io/badge/Download-.mcaddon-2E8B57?style=for-the-badge&logo=xbox&logoColor=white&labelColor=1e5c39" alt="Download .mcaddon" height="60" />
-      </a>
-      <br><br>
-      <b>Recommended for Mobile & PC</b><br>
-      <i>Click to auto-install</i>
+    <td colspan="2">
+       <br>
+       <h2 align="center">📥 Download Latest Release</h2>
     </td>
-    <td width="50%" align="center" valign="middle">
+  </tr>
+
+  <tr>
+    <td align="center" valign="top" width="50%" style="border-right: 1px solid #444;">
       <a href="https://github.com/DeathAruban/Vanilla-Shears/releases/latest">
-        <img src="https://img.shields.io/badge/Download-.zip-D35400?style=for-the-badge&logo=winrar&logoColor=white&labelColor=873600" alt="Download .zip" height="60" />
+        <img src="https://img.shields.io/badge/AUTO_INSTALL-.mcaddon-2E8B57?style=for-the-badge&logo=xbox&logoColor=white&labelColor=1e5c39" height="50">
       </a>
       <br><br>
-      <b>For Manual Installation</b><br>
-      <i>Extract content manually</i>
+      <p>
+        ✅ <b>Recommended</b><br>
+        Double-click to import automatically.<br>
+        <i>(PC, Mobile, Console via Realm)</i>
+      </p>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/DeathAruban/Vanilla-Shears/releases/latest">
+        <img src="https://img.shields.io/badge/MANUAL-.zip-D35400?style=for-the-badge&logo=winrar&logoColor=white&labelColor=873600" height="50">
+      </a>
+      <br><br>
+      <p>
+        🛠️ <b>Manual</b><br>
+        Extract to resource/behavior folders.<br>
+        <i>(Advanced Users)</i>
+      </p>
     </td>
   </tr>
 </table>
