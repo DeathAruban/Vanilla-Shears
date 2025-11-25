@@ -1,0 +1,56 @@
+/**
+ * ||========================================================================================================================||
+ * ||                                                                                                                        ||
+ * ||  ________  _______   ________  _________  ___  ___  ________  ________  ___  ___  ________  ________  ________         ||
+ * || |\   ___ \|\  ___ \ |\   __  \|\___   ___\\  \|\  \|\   __  \|\   __  \|\  \|\  \|\   __  \|\   __  \|\   ___  \       ||
+ * ||  \ \  \_|\ \ \   __/|\ \  \|\  \|___ \  \_\ \  \\\  \ \  \|\  \ \  \|\  \ \  \\\  \ \  \|\ /\ \  \|\  \ \  \\ \  \     ||
+ * ||   \ \  \ \\ \ \  \_|/_\ \   __  \   \ \  \ \ \   __  \ \   __  \ \   _  _\ \  \\\  \ \   __  \ \   __  \ \  \\ \  \    ||
+ * ||    \ \  \_\\ \ \  \_|\ \ \  \ \  \   \ \  \ \ \  \ \  \ \  \ \  \ \  \\  \\ \  \\\  \ \  \|\  \ \  \ \  \ \  \\ \  \   ||
+ * ||     \ \_______\ \_______\ \__\ \__\   \ \__\ \ \__\ \__\ \__\ \__\ \__\\ _\\ \_______\ \_______\ \__\ \__\ \__\\ \__\  ||
+ * ||      \|_______|\|_______|\|__|\|__|    \|__|  \|__|\|__|\|__|\|__|\|__|\|__|\|_______|\|_______|\|__|\|__|\|__| \|__|  ||
+ * ||                                                                                                                        ||
+ * ||========================================================================================================================||
+ * ||                                                                                                                        ||  
+ * ||                                               ★ Please do not modify this code ★                                      ||  
+ * ||                                   ► This Mod was created for Minecraft Bedrock Edition ◄                               || 
+ * ||                                                                                                                        ||
+ * ||========================================================================================================================||
+ */
+{
+	"format_version": "1.21.100",
+	"minecraft:item": {
+		"description": {
+			"identifier": "da:stone_shears",
+			"menu_category": { "category": "equipment" }
+		},
+		"components": {
+			"minecraft:icon": "stone_shears",
+			"minecraft:max_stack_size": 1,
+			"minecraft:durability": { "max_durability": 132 },
+			"minecraft:enchantable": { "value": 0, "slot": "shears" },
+            "minecraft:tags": {"tags": ["minecraft:is_tool","minecraft:stone_tier","is_shears"]},
+            "minecraft:repairable": {"repair_items": [{"items": [ "da:stone_shears" ],"repair_amount": "query.max_durability * 0.25"}]},
+			"minecraft:digger": {
+                "use_efficiency": true,
+                "destroy_speeds": [
+                    { "block": "minecraft:leaves", "speed": 15 },
+                    { "block": "minecraft:pale_oak_leaves", "speed": 15 },
+                    { "block": "minecraft:acacia_leaves", "speed": 15 },
+                    { "block": "minecraft:azalea_leaves", "speed": 15 },
+                    { "block": "minecraft:azalea_leaves_flowered", "speed": 15 },
+                    { "block": "minecraft:birch_leaves", "speed": 15 },
+                    { "block": "minecraft:cherry_leaves", "speed": 15 },
+                    { "block": "minecraft:dark_oak_leaves", "speed": 15 },
+                    { "block": "minecraft:jungle_leaves", "speed": 15 },
+                    { "block": "minecraft:mangrove_leaves", "speed": 15 },
+                    { "block": "minecraft:oak_leaves", "speed": 15 },
+                    { "block": "minecraft:spruce_leaves", "speed": 15 },
+                    { "block": "minecraft:vine", "speed": 15 },
+                    { "block": "minecraft:web","speed": 15 },
+                    { "block": "minecraft:wool", "speed": 5 },
+                    { "block": { "tags": "q.any_tag('minecraft:grass', 'minecraft:tall_grass')" }, "speed": 15 }
+                ]
+            }
+		}
+	}
+}

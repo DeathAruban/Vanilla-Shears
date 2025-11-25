@@ -1,0 +1,9 @@
+pack.description=Erweitere deine Survival-Ausrüstung! Verabschiede dich vom ständigen Herstellen von Eisenscheren. Dieses Addon führt ein vollständiges Progressionssystem für Scheren ein, von Holz bis Netherit.
+itemGroup.name.shears=Scheren
+item.da:wooden_shears=Holzschere
+item.da:stone_shears=Steinschere
+item.da:copper_shears=Kupferschere
+item.shears.name=Eisenschere
+item.da:golden_shears=Goldschere
+item.da:diamond_shears=Diamantschere
+item.da:netherite_shears=Netheritschere

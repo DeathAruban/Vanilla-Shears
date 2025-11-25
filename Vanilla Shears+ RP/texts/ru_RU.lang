@@ -1,0 +1,9 @@
+pack.description=Расширьте свой набор для выживания! Попрощайтесь с бесконечным созданием железных ножниц. Этот аддон вводит полную систему прогрессии для ножниц, от дерева до незерита.
+itemGroup.name.shears=Ножницы
+item.da:wooden_shears=Деревянные ножницы
+item.da:stone_shears=Каменные ножницы
+item.da:copper_shears=Медные ножницы
+item.shears.name=Железные ножницы
+item.da:golden_shears=Золотые ножницы
+item.da:diamond_shears=Алмазные ножницы
+item.da:netherite_shears=Незеритовые ножницы

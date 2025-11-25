@@ -1,0 +1,9 @@
+pack.description=サバイバルキットを拡張しましょう！鉄のハサミを無限に作る必要はもうありません。このアドオンは、木からネザライトまで、ハサミの完全な進行システムを導入します。
+itemGroup.name.shears=ハサミ
+item.da:wooden_shears=木のハサミ
+item.da:stone_shears=石のハサミ
+item.da:copper_shears=銅のハサミ
+item.shears.name=鉄のハサミ
+item.da:golden_shears=金のハサミ
+item.da:diamond_shears=ダイヤモンドのハサミ
+item.da:netherite_shears=ネザライトのハサミ

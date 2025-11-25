@@ -1,0 +1,61 @@
+/**
+ * ||========================================================================================================================||
+ * ||                                                                                                                        ||
+ * ||  ________  _______   ________  _________  ___  ___  ________  ________  ___  ___  ________  ________  ________         ||
+ * || |\   ___ \|\  ___ \ |\   __  \|\___   ___\\  \|\  \|\   __  \|\   __  \|\  \|\  \|\   __  \|\   __  \|\   ___  \       ||
+ * ||  \ \  \_|\ \ \   __/|\ \  \|\  \|___ \  \_\ \  \\\  \ \  \|\  \ \  \|\  \ \  \\\  \ \  \|\ /\ \  \|\  \ \  \\ \  \     ||
+ * ||   \ \  \ \\ \ \  \_|/_\ \   __  \   \ \  \ \ \   __  \ \   __  \ \   _  _\ \  \\\  \ \   __  \ \   __  \ \  \\ \  \    ||
+ * ||    \ \  \_\\ \ \  \_|\ \ \  \ \  \   \ \  \ \ \  \ \  \ \  \ \  \ \  \\  \\ \  \\\  \ \  \|\  \ \  \ \  \ \  \\ \  \   ||
+ * ||     \ \_______\ \_______\ \__\ \__\   \ \__\ \ \__\ \__\ \__\ \__\ \__\\ _\\ \_______\ \_______\ \__\ \__\ \__\\ \__\  ||
+ * ||      \|_______|\|_______|\|__|\|__|    \|__|  \|__|\|__|\|__|\|__|\|__|\|__|\|_______|\|_______|\|__|\|__|\|__| \|__|  ||
+ * ||                                                                                                                        ||
+ * ||========================================================================================================================||
+ * ||                                                                                                                        ||  
+ * ||                                     ★ Terms and Conditions for Using My Component ★                                   ||  
+ * ||                                                                                                                        ||
+ * ||========================================================================================================================||
+ */
+
+## Terms of Use
+
+These terms govern the use of content created by Death_Aruban. By downloading or using this content, you agree to these terms.
+
+**1. Prohibited Actions:**
+
+* **Unauthorized Redistribution:** You may not re-upload or redistribute this content on any platform without explicit prior permission from the creator.
+* **Ad Shorteners:** You may not use your own URL shorteners or advertisements when linking to the download of this content. Links must direct to the original download source provided by the creator.
+* **Removing Credits:** You may not remove or obscure the creator credits embedded within or associated with the content.
+* **Unauthorized Modification/Theft:** You may not modify, steal, or claim this content as your own. Modification is only permitted for personal use (see Section 2).
+* **Direct Download Links:** You may not post direct download links to this content. Always link to the official page or source provided by the creator.
+
+**2. Permitted Uses:**
+
+* **Content Showcasing:** You are permitted to feature this content in gameplay videos, reviews, or similar showcases, provided you give clear credit to Death_Aruban and include a link to the original download source in your description.
+* **Personal Modification:** You are permitted to modify this content strictly for your own personal use. Distribution of modified versions is prohibited without permission.
+* **Reporting Violations:** You are encouraged to report any users or platforms found violating these terms of use to the creator or the relevant platform administrators.
+
+**3. Enforcement and Consequences:**
+
+Failure to comply with these terms may result in action being taken against the infringing content and the distributor.
+
+* **Reporting:** If unauthorized copies or uses of this content are discovered, they will be reported to the relevant platform for takedown under copyright law.
+* **Liability:** Unauthorized distribution or modification for public use may lead to claims for damages resulting from the illegal distribution and copyright infringement.
+
+**4. Obtaining Permissions:**
+
+To request permission for uses not explicitly covered here (such as modification for public release or redistribution on specific platforms), you must contact the creator directly.
+
+* **Contact:** Please send permission requests via Discord to Death_aruban.
+* **Authorization:** Only the original creator, Death_Aruban, can grant authorization for uses beyond those outlined in Section 2.
+
+**5. Creator Information:**
+
+* YouTube: Death_Aruban™
+* Fiverr: Death_aruban
+* Discord: Death_aruban
+* MCPDL: Death_Aruban
+* GitHub: Death_Aruban
+
+**6. Copyright & Fair Use Notice:**
+
+This content is protected by copyright. Allowance is made for "fair use" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research, as permitted under Section 107 of the Copyright Act 1976. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational, or personal use generally weighs in favor of fair use.

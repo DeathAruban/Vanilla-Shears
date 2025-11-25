@@ -1,0 +1,9 @@
+pack.description=Expands your survival toolkit! Say goodbye to crafting endless iron shears. This addon introduces a full progression system for shears, ranging from Wood to Netherite.
+itemGroup.name.shears=Shears
+item.da:wooden_shears=Wooden Shears
+item.da:stone_shears=Stone Shears
+item.da:copper_shears=Copper Shears
+item.shears.name=Iron Shears
+item.da:golden_shears=Golden Shears
+item.da:diamond_shears=Diamond Shears
+item.da:netherite_shears=Netherite Shears

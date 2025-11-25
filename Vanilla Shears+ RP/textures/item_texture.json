@@ -1,0 +1,14 @@
+{
+	"resource_pack_name": "Vanilla Shears+",
+	"texture_name": "atlas.items",
+	"texture_data": {
+	// Vanilla Shears+ texture
+	"wooden_shears": { "textures": "arucube/shears/item/wooden_shears" },
+	"stone_shears": { "textures": "arucube/shears/item/stone_shears" },
+	"copper_shears": { "textures": "arucube/shears/item/copper_shears" },
+	"golden_shears": { "textures": "arucube/shears/item/golden_shears" },
+	"diamond_shears": { "textures": "arucube/shears/item/diamond_shears" },
+	"netherite_shears": { "textures": "arucube/shears/item/netherite_shears" }
+	// End
+	}
+}

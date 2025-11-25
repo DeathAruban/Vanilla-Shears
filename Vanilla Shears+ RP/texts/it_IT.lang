@@ -1,0 +1,9 @@
+pack.description=Espandi il tuo kit di sopravvivenza! Dì addio alla creazione infinita di cesoie in ferro. Questo addon introduce un sistema di progressione completo per le cesoie, dal legno alla Netherite.
+itemGroup.name.shears=Cesoie
+item.da:wooden_shears=Cesoie di legno
+item.da:stone_shears=Cesoie di pietra
+item.da:copper_shears=Cesoie di rame
+item.shears.name=Cesoie di ferro
+item.da:golden_shears=Cesoie d'oro
+item.da:diamond_shears=Cesoie di diamante
+item.da:netherite_shears=Cesoie di netherite

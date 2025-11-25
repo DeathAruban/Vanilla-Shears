@@ -1,0 +1,9 @@
+pack.description=Hayatta kalma kitini genişlet! Sürekli demir makas yapmaya elveda de. Bu eklenti, Tahtadan Neterite kadar makaslar için tam bir ilerleme sistemi sunar.
+itemGroup.name.shears=Makaslar
+item.da:wooden_shears=Tahta Makas
+item.da:stone_shears=Taş Makas
+item.da:copper_shears=Bakır Makas
+item.shears.name=Demir Makas
+item.da:golden_shears=Altın Makas
+item.da:diamond_shears=Elmas Makas
+item.da:netherite_shears=Neterit Makas

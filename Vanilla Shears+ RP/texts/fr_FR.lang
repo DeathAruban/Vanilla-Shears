@@ -1,0 +1,9 @@
+pack.description=Élargissez votre kit de survie ! Dites adieu à la fabrication incessante de cisailles en fer. Cet addon introduit un système de progression complet pour les cisailles, du bois à la netherite.
+itemGroup.name.shears=Cisailles
+item.da:wooden_shears=Cisailles en bois
+item.da:stone_shears=Cisailles en pierre
+item.da:copper_shears=Cisailles en cuivre
+item.shears.name=Cisailles en fer
+item.da:golden_shears=Cisailles en or
+item.da:diamond_shears=Cisailles en diamant
+item.da:netherite_shears=Cisailles en netherite

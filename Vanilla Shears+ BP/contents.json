@@ -1,0 +1,140 @@
+{
+   "content" : [
+      {
+         "path" : "contents.json"
+      },
+      {
+         "path" : "entities/bogged.json"
+      },
+      {
+         "path" : "entities/copper_golem.json"
+      },
+      {
+         "path" : "entities/mooshroom.json"
+      },
+      {
+         "path" : "entities/sheep.json"
+      },
+      {
+         "path" : "entities/snow_golem.json"
+      },
+      {
+         "path" : "entities/wolf.json"
+      },
+      {
+         "path" : "item_catalog/crafting_item_catalog.json"
+      },
+      {
+         "path" : "items/copper_shears.json"
+      },
+      {
+         "path" : "items/diamond_shears.json"
+      },
+      {
+         "path" : "items/golden_shears.json"
+      },
+      {
+         "path" : "items/netherite_shears.json"
+      },
+      {
+         "path" : "items/stone_shears.json"
+      },
+      {
+         "path" : "items/wooden_shears.json"
+      },
+      {
+         "path" : "loot_tables/shears/sheep_shear_diamond.json"
+      },
+      {
+         "path" : "loot_tables/shears/sheep_shear_netherite.json"
+      },
+      {
+         "path" : "manifest.json"
+      },
+      {
+         "path" : "pack_icon.png"
+      },
+      {
+         "path" : "recipes/crafting_table/copper_shears.json"
+      },
+      {
+         "path" : "recipes/crafting_table/diamond_shears.json"
+      },
+      {
+         "path" : "recipes/crafting_table/golden_shears.json"
+      },
+      {
+         "path" : "recipes/crafting_table/stone_shears.json"
+      },
+      {
+         "path" : "recipes/crafting_table/wooden_shears/wooden_shears_all_vanilla.json"
+      },
+      {
+         "path" : "recipes/crafting_table/wooden_shears/wooden_shears_bamboo_mosaic.json"
+      },
+      {
+         "path" : "recipes/crafting_table/wooden_shears/wooden_shears_bamboo_planks.json"
+      },
+      {
+         "path" : "recipes/crafting_table/wooden_shears/wooden_shears_cherry_planks.json"
+      },
+      {
+         "path" : "recipes/crafting_table/wooden_shears/wooden_shears_crimson_planks.json"
+      },
+      {
+         "path" : "recipes/crafting_table/wooden_shears/wooden_shears_mangrove_planks.json"
+      },
+      {
+         "path" : "recipes/crafting_table/wooden_shears/wooden_shears_pale_oak_planks.json"
+      },
+      {
+         "path" : "recipes/crafting_table/wooden_shears/wooden_shears_warped_planks.json"
+      },
+      {
+         "path" : "recipes/smithing_table/netherite_shears.json"
+      },
+      {
+         "path" : "scripts/shears/index.js"
+      },
+      {
+         "path" : "texts/de_DE.lang"
+      },
+      {
+         "path" : "texts/en_GB.lang"
+      },
+      {
+         "path" : "texts/en_US.lang"
+      },
+      {
+         "path" : "texts/es_ES.lang"
+      },
+      {
+         "path" : "texts/fr_FR.lang"
+      },
+      {
+         "path" : "texts/it_IT.lang"
+      },
+      {
+         "path" : "texts/ja_JP.lang"
+      },
+      {
+         "path" : "texts/languages.json"
+      },
+      {
+         "path" : "texts/pt_PT.lang"
+      },
+      {
+         "path" : "texts/ru_RU.lang"
+      },
+      {
+         "path" : "texts/tr_TR.lang"
+      },
+      {
+         "path" : "texts/zh_CN.lang"
+      },
+      {
+         "path" : "®Terms and Conditions 2025.txt"
+      }
+   ],
+   "version" : 1
+}

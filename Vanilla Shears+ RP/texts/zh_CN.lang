@@ -1,0 +1,9 @@
+pack.description=扩展您的生存工具箱！告别无休止地制作铁剪刀。该模组引入了完整的剪刀升级系统，从木制到下界合金。
+itemGroup.name.shears=剪刀
+item.da:wooden_shears=木剪刀
+item.da:stone_shears=石剪刀
+item.da:copper_shears=铜剪刀
+item.shears.name=铁剪刀
+item.da:golden_shears=金剪刀
+item.da:diamond_shears=钻石剪刀
+item.da:netherite_shears=下界合金剪刀

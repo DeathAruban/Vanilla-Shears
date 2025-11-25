@@ -1,0 +1,9 @@
+pack.description=¡Expande tu kit de supervivencia! Di adiós a fabricar tijeras de hierro sin fin. Este complemento introduce un sistema de progresión completo para las tijeras, desde la madera hasta la netherita.
+itemGroup.name.shears=Tijeras
+item.da:wooden_shears=Tijeras de madera
+item.da:stone_shears=Tijeras de piedra
+item.da:copper_shears=Tijeras de cobre
+item.shears.name=Tijeras de hierro
+item.da:golden_shears=Tijeras de oro
+item.da:diamond_shears=Tijeras de diamante
+item.da:netherite_shears=Tijeras de netherita
