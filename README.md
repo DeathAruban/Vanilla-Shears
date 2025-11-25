@@ -17,109 +17,104 @@
 <img alt="GitHub" src="https://img.shields.io/github/license/DeathAruban/Vanilla-Shears">
 </p>
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="50%" align="center"><h3>📦 Version Support</h3></th>
-      <th width="50%" align="center"><h3>🌍 Supported Languages</h3></th>
-    </tr>
-  </thead>
-  
-  <tbody>
-    <tr>
-      <td valign="top">
-        <div align="center">
-          <table width="95%">
-            <thead>
-              <tr>
-                <th align="center">MCBE Version</th>
-                <th align="center">Status</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <td align="center"><b>1.21.124+</b></td>
-                <td align="center">✅ <b>Native</b></td>
-              </tr>
-              <tr>
-                <td align="center">1.20.x</td>
-                <td align="center">❌</td>
-              </tr>
-              <tr>
-                <td align="center">1.19.x</td>
-                <td align="center">❌</td>
-              </tr>
-              <tr>
-                <td align="center">1.18.x</td>
-                <td align="center">❌</td>
-              </tr>
-              <tr>
-                <td align="center">Legacy</td>
-                <td align="center">❌</td>
-              </tr>
-            </tbody>
-          </table>
-          <br>
-          <p><i>Requires standard JavaScript API support.</i></p>
-        </div>
-      </td>
-      <td valign="top">
+<table width="100%" style="table-layout: fixed;">
+  <tr>
+    <th width="50%" align="center"><h3>📦 Version Support</h3></th>
+    <th width="50%" align="center"><h3>🌍 Supported Languages</h3></th>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <div align="center">
         <table width="100%">
-          <tr>
-            <td>🇺🇸 <code>en_US</code></td>
-            <td>🇬🇧 <code>en_GB</code></td>
-          </tr>
-          <tr>
-            <td>🇩🇪 <code>de_DE</code></td>
-            <td>🇪🇸 <code>es_ES</code></td>
-          </tr>
-          <tr>
-            <td>🇫🇷 <code>fr_FR</code></td>
-            <td>🇮🇹 <code>it_IT</code></td>
-          </tr>
-          <tr>
-            <td>🇯🇵 <code>ja_JP</code></td>
-            <td>🇵🇹 <code>pt_PT</code></td>
-          </tr>
-          <tr>
-            <td>🇷🇺 <code>ru_RU</code></td>
-            <td>🇨🇳 <code>zh_CN</code></td>
-          </tr>
-          <tr>
-            <td>🇹🇷 <code>tr_TR</code></td>
-            <td></td>
-          </tr>
+          <thead>
+            <tr>
+              <th align="center">MCBE Version</th>
+              <th align="center">Status</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="center"><b>1.21.124+</b></td>
+              <td align="center">✅ <b>Native</b></td>
+            </tr>
+            <tr>
+              <td align="center">1.20.x</td>
+              <td align="center">❌</td>
+            </tr>
+            <tr>
+              <td align="center">1.19.x</td>
+              <td align="center">❌</td>
+            </tr>
+            <tr>
+              <td align="center">1.18.x</td>
+              <td align="center">❌</td>
+            </tr>
+            <tr>
+              <td align="center">Legacy</td>
+              <td align="center">❌</td>
+            </tr>
+          </tbody>
         </table>
         <br>
-        <div align="center">
-          <p>Found a translation error? <a href="https://github.com/DeathAruban/Vanilla-Shears/issues">Report it here!</a> 🤝</p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" style="border-top: 2px solid #30363d;">
-        <h2 align="center" style="margin-top: 20px;">📥 Download Latest Release</h2>
-        <table width="100%" style="border: none;">
-          <tr>
-            <td width="50%" align="center" style="border: none;">
-              <a href="https://github.com/DeathAruban/Vanilla-Shears/releases/latest">
-                <img src="https://img.shields.io/badge/AUTO_INSTALL-.mcaddon-238636?style=for-the-badge&logo=xbox&logoColor=white&labelColor=1a6328" height="55">
-              </a>
-              <p><b>Recommended for Everyone</b><br>Double-click to import.</p>
-            </td>
-            <td width="50%" align="center" style="border: none;">
-              <a href="https://github.com/DeathAruban/Vanilla-Shears/releases/latest">
-                <img src="https://img.shields.io/badge/MANUAL-.zip-da3633?style=for-the-badge&logo=winrar&logoColor=white&labelColor=9e2826" height="55">
-              </a>
-              <p><b>For Manual Installation</b><br>Extract to behavior/resource folders.</p>
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </tbody>
-</table>
+        <p><i>Requires standard JavaScript API support.</i></p>
+      </div>
+    </td>
+    <td valign="top" width="50%">
+      <table width="100%">
+        <tr>
+          <td>🇺🇸 <code>en_US</code></td>
+          <td>🇬🇧 <code>en_GB</code></td>
+        </tr>
+        <tr>
+          <td>🇩🇪 <code>de_DE</code></td>
+          <td>🇪🇸 <code>es_ES</code></td>
+        </tr>
+        <tr>
+          <td>🇫🇷 <code>fr_FR</code></td>
+          <td>🇮🇹 <code>it_IT</code></td>
+        </tr>
+        <tr>
+          <td>🇯🇵 <code>ja_JP</code></td>
+          <td>🇵🇹 <code>pt_PT</code></td>
+        </tr>
+        <tr>
+          <td>🇷🇺 <code>ru_RU</code></td>
+          <td>🇨🇳 <code>zh_CN</code></td>
+        </tr>
+        <tr>
+          <td>🇹🇷 <code>tr_TR</code></td>
+          <td></td>
+        </tr>
+      </table>
+      <br>
+      <div align="center">
+        <p>Found a translation error? <a href="https://github.com/DeathAruban/Vanilla-Shears/issues">Report it here!</a> 🤝</p>
+      </div>
+    </td>
+  </tr>
 
+  <tr>
+    <td colspan="2" style="border-top: 1px solid #444;">
+      <h2 align="center">📥 Download Latest Release</h2>
+      <table width="100%" style="border: none;">
+        <tr>
+          <td width="50%" align="center" style="border: none;">
+            <a href="https://github.com/DeathAruban/Vanilla-Shears/releases/latest">
+              <img src="https://img.shields.io/badge/AUTO_INSTALL-.mcaddon-238636?style=for-the-badge&logo=xbox&logoColor=white&labelColor=1a6328" height="55">
+            </a>
+            <p><b>Recommended for Everyone</b><br>Double-click to import.</p>
+          </td>
+          <td width="50%" align="center" style="border: none;">
+            <a href="https://github.com/DeathAruban/Vanilla-Shears/releases/latest">
+              <img src="https://img.shields.io/badge/MANUAL-.zip-da3633?style=for-the-badge&logo=winrar&logoColor=white&labelColor=9e2826" height="55">
+            </a>
+            <p><b>For Manual Installation</b><br>Extract to behavior/resource folders.</p>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 ## ✂️ Shears Collection & Stats
 
 <table>
